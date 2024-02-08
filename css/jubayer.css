@@ -1,0 +1,10 @@
+body {
+    font-family: Gill Sans, sans-serif;
+    background-color: rgb(198, 230, 251);
+    text-align: center;
+}
+
+.animal {
+    font-size: 20px;
+    margin: 2dvh;
+}
