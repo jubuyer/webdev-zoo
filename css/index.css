@@ -1,5 +1,9 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  background-color: rgb(161, 181, 216);
   text-align: center;
+}
+
+.link {
+  font-size: 20px;
 }
