@@ -1,0 +1,15 @@
+body {
+    font-family: Courier New;
+    background-color: rgb(176, 254, 197);
+    text-align: center;
+}
+  
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
