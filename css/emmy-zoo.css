@@ -1,9 +1,8 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #6B996C;
-    background-image: url("/img/plants.png");
+    background-image: url("../img/plants.png");
     background-position-y: 200px;
     background-repeat: no-repeat;
     text-align: center;
 }
-
