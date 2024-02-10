@@ -1,0 +1,28 @@
+body {
+    font-family: FreeMono, monospace;
+    font-size: large;
+    background-color: #B6BAC7;
+    background-image: url("../img/meadow.png");
+    text-align: center;
+    background-size: cover;
+    background-position: center center;
+    background-position-y: 100px;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+}
+
+h1 {
+    text-shadow: 2px 2px 2px #6975C1;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+#fun-fact {
+    font-weight: bold;
+    color: #20336F;
+}
