@@ -1,0 +1,25 @@
+#title{
+    text-align: center;
+    font-family: Papyrus; 
+}
+
+#panda1{
+    height: 50%;
+    width: 50%;
+    float: left;
+    padding-right: 0px;
+}
+
+#panda2{
+    height: 50%;
+    width: 50%;
+}
+
+#panda1-info{
+    margin-top: 5%;
+   border: solid; 
+  border-radius: 0.5pc; 
+  font-family: Papyrus; 
+  box-shadow: 5px 10px #888888;
+  background-color: white;
+}
