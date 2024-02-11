@@ -4,11 +4,10 @@ body {
     background-color: #B6BAC7;
     background-image: url("../img/meadow.png");
     text-align: center;
-    background-size: cover;
-    background-position: center center;
-    background-position-y: 100px;
     background-repeat: no-repeat;
-    background-attachment: fixed
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
 }
 
 h1 {
@@ -18,8 +17,10 @@ h1 {
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    margin-left: 170px;
-    margin-right: 170px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background-color: #B6BAC7;
+    border-radius: 25px;
 }
 
 #fun-fact {
