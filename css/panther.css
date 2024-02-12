@@ -1,0 +1,44 @@
+body {
+    font-family: FreeMono, monospace;
+    font-size: large;
+    background-color: #C98C66;
+    background-image: url("../img/leaves.png");
+    text-align: center;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+h1 {
+    text-shadow: 2px 2px 2px #A05129;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background-color: #C98C66;
+    border-radius: 25px;
+}
+
+#fun-fact {
+    font-weight: bold;
+    color: #583320;
+}
+
+.images {
+    width: 100%;
+}
+
+#left-pic {
+    height: auto;
+    width: 31.35%;
+    float: center;
+
+}
+
+#right-pic {
+    height: auto;
+    width: 23%;
+    float: center;
+}
