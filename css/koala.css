@@ -1,0 +1,28 @@
+body {
+    font-family: FreeMono, monospace;
+    font-size: large;
+    background-color: #94B1AD;
+    background-image: url("../img/eucalyptus.png");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-shadow: 2px 2px 2px #367B71;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background-color: #94B1AD;
+    border-radius: 25px;
+}
+
+#fun-fact {
+    font-weight: bold;
+    color: #28554E;
+}
