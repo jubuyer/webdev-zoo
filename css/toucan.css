@@ -1,0 +1,47 @@
+
+body {
+    font-family: FreeMono, monospace;
+    font-size: large;
+    background-color: #FFEEA0;
+    background-image: url("../img/tropical.png");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1 {
+    text-shadow: 2px 2px 2px #B39927;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background-color: #FFEEA0;
+    border-radius: 25px;
+}
+
+#fun-fact {
+    font-weight: bold;
+    color: #B39927;
+}
+
+.images {
+    width: 100%;
+}
+
+#left-pic {
+    height: auto;
+    width: 32.1%;
+    float: center;
+
+}
+
+#right-pic {
+    height: auto;
+    width: 27.05%;
+    float: center;
+}
