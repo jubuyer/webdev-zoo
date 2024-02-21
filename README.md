@@ -5,6 +5,12 @@ This repository is the starter code for Assignment 1 - Zoo.
 ### Live Link
 [Website link](https://jubuyer.github.io/webdev-zoo/)
 
+### Group
+Emmy Veselinov - emmyvese12
+Ellen Avrumova - ellenAvrumova
+Krina Patel - Krinap2003
+Jubayer Ahmed - jubuyer
+
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
 1.	Log on to GitHub
